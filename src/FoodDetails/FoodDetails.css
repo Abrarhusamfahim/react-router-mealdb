@@ -1,0 +1,9 @@
+.detail-Container{
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+.detail-Container img{
+    width: 300px;
+    border-radius: 10px;
+}

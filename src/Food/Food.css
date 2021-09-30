@@ -1,0 +1,9 @@
+.food-cart{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 20px;
+}
+.food-cart img{
+    width: 300px;
+    border-radius: 10px;
+}
